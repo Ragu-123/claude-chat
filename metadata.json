@@ -1,0 +1,5 @@
+{
+  "name": "Claude-Style Chat (Puter)",
+  "description": "A premium chat interface using Claude Opus 4.6 via Puter.js with local filesystem memory management.",
+  "requestFramePermissions": []
+}
